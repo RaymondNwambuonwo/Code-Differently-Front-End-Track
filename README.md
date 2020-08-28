@@ -1,28 +1,18 @@
 ![code differently](https://user-images.githubusercontent.com/54545904/91590200-f82ec600-e928-11ea-9433-eea450388abf.png)
-# CSS-Labs
+# CSS-Lab & Capstone
 
 # Table of Content
-- [CSS-Labs](#CSS-Labs)
-- [Lab 1: CSS Basics](#Lab-1-CSS-Basics)
-  - [Prerequisites](#Prerequisites)
-  - [The Set Up](#The-Set-Up)
-  - [The Task](#The-Task)
-  - [Resources](#Resources)
-- [Lab 2: CSS Responsive Layouts](#Lab-2-CSS-Responsive-Layouts)
-  - [Prerequisites](#Prerequisites)
-  - [The Set Up](#The-Set-Up)
-  - [The Task](#The-Task)
-  - [Resources](#Resources)
-- [Lab 3: Flexbox Layout](#Lab-3-CSS-Flexbox-Layout)
-  - [Prerequisites](#Prerequisites)
-  - [The Set Up](#The-Set-Up)
-  - [The Task](#The-Task)
-  - [Resources](#Resources)
-- [Lab 4: CSS Grid Layout](#Lab-4-CSS-Grid-Layout)
-  - [Prerequisites](#Prerequisites)
-  - [The Set Up](#The-Set-Up)
-  - [The Task](#The-Task)
-  - [Resources](#Resources)
+- [CSS-Lab & Capstone](#css-lab--capstone)
+- [Table of Content](#table-of-content)
+  - [Lab 1 CSS Basics](#lab-1-css-basics)
+    - [Prerequisites](#prerequisites)
+    - [The Set Up](#the-set-up)
+    - [The Task](#the-task)
+  - [Resources:](#resources)
+  - [Lab 2: CSS Responsive Layouts](#lab-2-css-responsive-layouts)
+    - [Prerequisites](#prerequisites-1)
+    - [The Set Up](#the-set-up-1)
+    - [The Task](#the-task-1)
 
 ##  Lab 1 CSS Basics
 
@@ -56,3 +46,23 @@ Your web page must include the following:
 * https://www.freewebtemplates.com/
 * https://www.wix.com/website/templates
 * https://www.webdesign-inspiration.com/web-designs/type/portfolio
+
+
+##  Lab 2: CSS Responsive Layouts
+
+### Prerequisites
+* HTML Fundamentals
+* CSS Fundamentals
+* Completed Lab 1 CSS Basics
+
+### The Set Up
+* Open the previous web page you created in the “CSS Basics Lab”. 
+
+
+### The Task
+Continuing from the first lab and for you to demonstrate your newly acquired knowledge on CSS and HTML, we want you to take the mock website you created and make it responsive. You should know by now that responsive design means your site can be accessed and viewed on any device such as phones, tablets, and computers. 
+Your web page must include the following:
+
+* Media Queries
+* Breakpoints
+* Flexbox or Grid 
