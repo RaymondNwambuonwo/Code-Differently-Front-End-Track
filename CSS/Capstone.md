@@ -34,6 +34,7 @@ You will be creating a landing page based on one of the following categories:
 * Electronics
 * Social Justice
 * Clothing
+* Open to choosing your own pending approval from instructor.
 
 Upon choosing a category, you are to build a webpage of your own creativeness that must include the following:
 
@@ -63,7 +64,7 @@ Upon choosing a category, you are to build a webpage of your own creativeness th
 
 - The navbar should always be at the top of the viewport.
 
-- Landing page incorporates media queries and is responsive across all devices.
+- Landing page incorporates media queries and is responsive across desktops/laptops, mobile, and tablet.
 
 - Landing page should utilize CSS flexbox and/or grid.
 
