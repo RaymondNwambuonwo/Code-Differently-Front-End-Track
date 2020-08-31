@@ -27,7 +27,7 @@ Using the `<audio>` and `<video>` elements, create a website with sections that 
 
 - Add an appropriate song or clip of a song from one of your favorite musical artist
 
-    >Remember this must be work appropriate. Do not include any songs with explicit language that is offensive.
+    > Remember this must be work appropriate. Do not include any songs with explicit language that is offensive.
 
 - Add an image of the artist
 
@@ -39,7 +39,7 @@ Using the `<audio>` and `<video>` elements, create a website with sections that 
 
 - Add a video of a clip of one of your favorite movies, TV show, or cartoon
 
-    >Remember this must be work appropriate. Do not include any videos with explicit language or imagery that is offensive.
+    > Remember this must be work appropriate. Do not include any videos with explicit language or imagery that is offensive.
 
 - Add captions to the video
 
