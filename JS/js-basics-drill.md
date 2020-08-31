@@ -17,6 +17,8 @@
 
 - Create an HTML file called `index.html`
 
+    - HTML document must have the correct global structure.
+
 - Create a JavaScript file for each exercise below. 
 
 - Push up your changes to the remote repository
@@ -84,3 +86,6 @@ Display the sentence(s) as a `<p>` inside the `<main>` element.
     - If a number is < 20 - return "Large"
     - If a number is =  20 - return "Huge"
 
+4. Write a program that prompts a user for their name, rate of pay, and hours worked per week. The program needs to compute the total pay for the employee. If the hours worked are greater than 40, use 1.5 for the overtime rate. Print the result to the console in a sentence. 
+
+> Ex: Leah worked a total of 35 hours receiving a pay of $350.
