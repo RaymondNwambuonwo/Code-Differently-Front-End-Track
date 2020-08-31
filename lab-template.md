@@ -9,6 +9,15 @@
 
 ### The Set-Up
 
+- Create a repository and call it  <em>“”</em> 
+
+- Initialize the repository
+
+- Clone locally and open repository in Visual Studio Code
+
+- Create an HTML file called `index.html`
+
+- Push up your changes to the remote repository
 
 
 
