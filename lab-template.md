@@ -1,4 +1,6 @@
+
 <img  src="../code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px; text-align:center;">
+
 
 
 ## Title
@@ -8,6 +10,7 @@
 
 
 ### The Set-Up
+
 
 - Create a repository and call it  <em>“”</em> 
 
@@ -30,3 +33,6 @@
 
 
 >> Remember to stage, commit, and push your changes often. Let Git be on your team.
+
+
+
