@@ -1,3 +1,5 @@
+<img src="code-diff-logo.png" style="height: 200px; width:300px;">
+
 # Table of Contents
 
 - GIT
