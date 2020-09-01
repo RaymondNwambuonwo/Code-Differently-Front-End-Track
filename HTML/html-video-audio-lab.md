@@ -46,3 +46,4 @@ Using the `<audio>` and `<video>` elements, create a website with sections that 
 - Give a small paragraph about the video and why this is one of your favorites to watch.
 
 
+>> Remember to stage, commit, and push your changes often. Let Git be on your team.

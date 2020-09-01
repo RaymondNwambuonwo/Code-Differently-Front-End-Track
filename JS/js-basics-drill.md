@@ -89,3 +89,6 @@ Display the sentence(s) as a `<p>` inside the `<main>` element.
 4. Write a program that prompts a user for their name, rate of pay, and hours worked per week. The program needs to compute the total pay for the employee. If the hours worked are greater than 40, use 1.5 for the overtime rate. Print the result to the console in a sentence. 
 
 > Ex: Leah worked a total of 35 hours receiving a pay of $350.
+
+
+>> Remember to stage, commit, and push your changes often. Let Git be on your team.

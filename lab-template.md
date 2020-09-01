@@ -26,3 +26,7 @@
 
 
 ### The Task
+
+
+
+>> Remember to stage, commit, and push your changes often. Let Git be on your team.

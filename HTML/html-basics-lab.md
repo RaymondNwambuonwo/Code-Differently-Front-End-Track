@@ -48,4 +48,5 @@ Your *About Me* web page must include the following:
 
 6. Must have the global document structure
 
-7. Must be version controlled
+>> Remember to stage, commit, and push your changes often. Let Git be on your team.
+

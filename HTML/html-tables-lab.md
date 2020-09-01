@@ -59,4 +59,5 @@ In the resume.html file add a table. Your resume must have the following section
 - Look at other resumes for layout inspiration
 
 
+>> Remember to stage, commit, and push your changes often. Let Git be on your team.
 

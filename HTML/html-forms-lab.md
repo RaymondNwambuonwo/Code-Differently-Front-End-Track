@@ -64,4 +64,4 @@ Create a registration form for a business of your choosing. The registration for
     - In the `close.html` file, display a message to the user stating the form has been submitted. 
 
 
-Remember to stage, commit, and push your changes often. 
+>> Remember to stage, commit, and push your changes often. Let Git be on your team.

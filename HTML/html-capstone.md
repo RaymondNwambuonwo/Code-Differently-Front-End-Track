@@ -51,3 +51,6 @@ Your tribute webpage will need to include the following criteria:
 
 
 Visit this [page](https://codepen.io/freeCodeCamp/full/zNqgVx) for an example of tribute page.
+
+
+>> Remember to stage, commit, and push your changes often. Let Git be on your team.
