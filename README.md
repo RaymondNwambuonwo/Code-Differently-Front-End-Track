@@ -16,6 +16,8 @@
 
     - [HTML Video & Audio](HTML/html-video-audio-lab.md)
 
+    - [HTML Capstone](HTML/html-capstone.md)
+
 - CSS
 
     - Lab One
