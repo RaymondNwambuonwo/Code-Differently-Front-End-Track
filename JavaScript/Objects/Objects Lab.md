@@ -47,11 +47,13 @@ const car = {
 
 **Prompt 2:** Delete the `gasoline` property from the object. Also print the object before or after deleting the property.
 
-**Prompt 3:** Write a function that returns the object as an array.
+**Prompt 3:** Write a function that returns the object keys as an array.
 
-**Prompt 4:** Add two more properties to the object `tints: 33%` and `carplay: true`. Print to the console to make sure properties were added.
+**Prompt 4:** Write a function that returns the object's values as an array.
 
-**Prompt 5:** Create another  object called `house` that contains the following:
+**Prompt 5:** Add two more properties to the object `tints: 33%` and `carplay: true`. Print to the console to make sure properties were added.
+
+**Prompt 6:** Create another  object called `house` that contains the following:
 * 10 key value pairs
 * 2 boolean values
 * 1 object 
