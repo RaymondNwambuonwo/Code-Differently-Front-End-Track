@@ -7,11 +7,7 @@
 
 ### The Set-Up
 
-- Create a repository and call it  <em>“html-basics”</em> 
-
-- Initialize the repository
-
-- Clone locally and open repository in Visual Studio Code
+- Fork and clone  this repository locally and in Visual Studio Code
 
 - Create an HTML file called `index.html`
 
@@ -20,6 +16,8 @@
 
 
 ### The Task
+
+This About webpage will be a single-page website. With the use of relative links, we can navigate to different sections of webpage. 
 
 Your *About Me* web page must include the following:
 
@@ -31,22 +29,28 @@ Your *About Me* web page must include the following:
         - Accomplishments
         - Skills
         - Hobbies/Interest
-        - Contact (do not include any phone numbers or addresses)
+        - Contact (Just email address)
 
-2. An image of you. Must be professional. 
+2. Stage, commit, and push your changes.
 
-3. Banner with your name
+3. An image of you. Must be professional. 
 
-4. Content in the sections above
+4. Stage, commit, and push changes.
 
-5. Mandatory elements:
+5. Banner with your name
+
+6. Add content to the sections above
+
+7. Stage, commit, and push changes.
+
+8. Mandatory elements:
 
 - `<header>`
 - `<footer>`
 - `<section>`
 - `<article>`
 
-6. Must have the global document structure
+9. Must have the global document structure
 
->> Remember to stage, commit, and push your changes often. Let Git be on your team.
+10. Stage, commit, and push your changes. 
 
