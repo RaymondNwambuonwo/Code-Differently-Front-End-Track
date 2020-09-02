@@ -47,7 +47,7 @@ const car = {
 
 **Prompt 2:** Delete the `gasoline` property from the object. Also print the object before or after deleting the property.
 
-**Prompt 3:** Find the length of the object and print it to the console.
+**Prompt 3:** Write a function that returns the object as an array.
 
 **Prompt 4:** Add two more properties to the object `tints: 33%` and `carplay: true`. Print to the console to make sure properties were added.
 
