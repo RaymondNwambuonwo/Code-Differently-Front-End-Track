@@ -20,9 +20,15 @@
 
 - CSS
 
-    - Lab One
-
-    - Lab Two
+    - [CSS Basics](CSS/CSS-Basics-Lab.md)
+  
+    - [CSS Flexbox Layouts](CSS/CSS-Flexbox-Layouts-Lab.md)
+    
+    - [CSS Grid Layouts](CSS/CSS-Grid-Layouts-Lab.md)
+    
+    - [CSS Responsive](CSS/CSS-Responsive-Layouts-Lab.md)
+    
+    - [CSS Capstone](CSS/CSS-Capstone.md)
 
 
 - JavaScript
