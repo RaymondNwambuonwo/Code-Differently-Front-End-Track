@@ -3,65 +3,86 @@
 
 ## HTML Forms Lab
 
-Using the `<form>` element, create various forms to take input of different topics.
 
 
 ### The Set-Up
 
-- Create a repository and call it  <em>“html-forms”</em> 
 
-- Initialize the repository
+- Fork and clone  this repository locally and in Visual Studio Code
 
-- Clone locally and open repository in Visual Studio Code
+- Create an HTML file called `landing.html`
 
-- Create an HTML file called `index.html`
+- Create an HTML file called `form.html`
 
-- Create an HTML file called `close.html`
+- Create an HTML file called `submit.html`
 
 - Push up your changes to the remote repository
 
 
 ### The Task
 
-Create a registration form for a business of your choosing. The registration form must meet the following criteria:
+Create a business page for a business of your choosing. The business page could be for a lawn care service, nails/hair, cleaning, etc.
+
+This will be a multi-page website and must include pages:
+
+- Landing page 
+
+- Registration page 
+
+- Confirmation  page to let the user know their form was submitted successfully.
+
+<strong>Criteria for the landing page:</strong>
+
+1. Include an image. Must pertain to the business
+
+2. A button  to the registration form
+
+3. Small paragraph about the business
+
+4. A business name ( Be creative! )
+
+5. Stage, commit, and push changes
+
+<strong>Criteria for the registration form:</strong>
 
 1. Inputs for:
 
     - First name and last name
-    - Month and day of birth (do not include year)
     - Email address
     - Password
     - Confirm password
     - Street address 1
     - Street address 2
     - City
+    - State
     - Zip Code
 
 2. Radio Buttons for:
 
-    - Gender
-    - Language preferred
-        - Include at least 3 different languages
+    - Language preferred and/or gender 
 
 3. Checkboxes for:
 
-    - Which days of the week the user plans on using their service
+    - Selecting the service
+
+        - Ex: Lawn Care Services: Grass cutting, planting trees, trimming, mulching, etc.
+
+4. Input for Date of Service requested
     
-4. Select Menu for:
+5. Select Menu for:
 
-    - Experience with the service offered
+    - Time of Day for Service (specify the time range for each. Ex: Morning 9:00AM - 11:00AM)
 
-        - Beginner
-        - Intermediate
-        - Advanced
+        - Morning
+        - Afternoon
+        - Early Evening
 
-5. Submit Button
+6. Submit Button
 
-    - The submit button to link to the `close.html` page
+    - Add a submit button to link to the `submit.html` page
 
-6. Submit web page
+7. Submit web page
 
-    - In the `close.html` file, display a message to the user stating the form has been submitted. 
+    - In the `submit.html` file, display a message to the user stating the form has been submitted. 
 
-
->> Remember to stage, commit, and push your changes often. Let Git be on your team.
+8. Stage, commit, and push your changes often. Let Git be on your team.

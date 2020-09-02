@@ -2,32 +2,28 @@
 
 ## HTML Tables Lab
 
-Using the `<table>` element and attributes, create a resume.
-
 
 
 ### The Set-Up
 
-- Create a repository and call it  <em>“html-resume”</em> 
+- Fork and clone  this repository locally and in Visual Studio Code
 
-- Initialize the repository
-
-- Clone locally and open repository in Visual Studio Code
-
-- Create an HTML file called `index.html`
+- Create an HTML file called `resume.html`
 
 - Push up your changes to the remote repository
 
 
 ### The Task
 
+#### Part One
+
 We will use a table element to structure the layout of the Resume
 
-In the resume.html file add a table. Your resume must have the following sections with content:
+In the `resume.html` file add a table. Your resume must have the following sections with content:
 
 - Contact information
 
-    - No phone numbers. Email address only
+    - Email address only
     - Do not include any social media if it is not professional
 
 - Small summary 
@@ -49,6 +45,15 @@ In the resume.html file add a table. Your resume must have the following section
 
     - Schools attended including middle school
 
+>> Stage, commit, and push changes after creating the table and coding each section. 
+
+#### Part Two
+
+Prepare a presentation about your resume. This presentation will be in two parts. 
+
+- First Part: Using the resume, showcase yourself. When a potential employee is being interview, the interviewer usually asks them to talk about themselves. This is when you would give an overview of who you are and your experience. 
+
+- Second Part: Discuss the code. What was your strategy to build this web page? Did you use any resources? What elements were used?  When interviewing, you may be asked about any projects that you are working on or have completed. Going in depth and talking about the project, tells the interviewer you are very knowledgeable in what you do. 
 
 ## Tips
 

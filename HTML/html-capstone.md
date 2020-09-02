@@ -3,25 +3,22 @@
 
 ## HTML Capstone
 
-Using all of the wonderful and newly acquired knowledge in HTML, you will build a tribute page of someone famous you admire.
-
 
 ### The Set-Up
 
-- Create a repository and call it  <em>“html-tribute-capstone”</em> 
+- Fork and clone  this repository locally and in Visual Studio Code
 
-- Initialize the repository
+- Create an HTML file called `tribute.html`
 
-- Clone locally and open repository in Visual Studio Code
-
-- Create an HTML file called `index.html`
-
-- Push up your changes to the remote repository
+- Stage, commit, and push up changes to the remote repository
 
 
 
 
 ### The Task
+
+Using all of the wonderful and newly acquired knowledge in HTML, you will build a tribute page of someone famous you admire. This will be a single-page web page. 
+
 
 Your tribute webpage will need to include the following criteria:
 
@@ -35,22 +32,30 @@ Your tribute webpage will need to include the following criteria:
     - `<div>`
     - `<aside>`
 
-2. A banner
+2. Stage, commit, and push up changes.
 
-3. An image of the person
+3. A banner
 
-4. A small timeline of their life and works
+4. An image of the person
 
-5. A paragraph describing why you admire this person
+5. Stage, commit, and push up changes.
 
-5. A quote from the person
+6. A small timeline of their life and works
 
-6. A video clip with captions
+7. A paragraph describing why you admire this person
 
-7. A link to the person's Wikipedia page
+8. Stage, commit, and push up changes.
+
+9. A quote from the person
+
+10. A video clip with captions
+
+11. A link to the person's Wikipedia page
+
+12. Stage, commit, and push up changes.
 
 
 Visit this [page](https://codepen.io/freeCodeCamp/full/zNqgVx) for an example of tribute page.
 
 
->> Remember to stage, commit, and push your changes often. Let Git be on your team.
+
