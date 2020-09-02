@@ -23,21 +23,21 @@
 
 - Clone locally and open repository in Visual Studio Code
 
-- Create an JS file called `main.html`
+- Create an JS file called `main.js`
 
 - Push up your changes to the remote repository
 
 ### The Task
 Take the following object:
-```
-let car = {
-make : "ford",
-model : "mustang",
-color : "black",
-type : "sedan",
-tires : "firestone",
-mode : "sport",
-gasoline : "super"
+```JS
+const car = {
+  make : "ford",
+  model : "mustang",
+  color : "black",
+  type : "sedan",
+  tires : "firestone",
+  mode : "sport",
+  gasoline : "super"
  }
 ```
 
