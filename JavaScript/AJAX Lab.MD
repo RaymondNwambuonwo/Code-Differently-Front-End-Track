@@ -21,17 +21,8 @@
 Since the start of the program you have learned how to build your own websites, utilizing HTML and CSS. But you have yet to generate content on these sites outside of what you created from scratch. In this lab you will be utilizing AJAX/Fetch to request information from third-party databases or APIs, generating content on your webpage from third party servers. 
 
 ### The Set Up
-
-- Create a repository and call it  <em>“JS AJAX Lab”</em> 
-
-- Initialize the repository
-
-- Clone locally and open repository in Visual Studio Code
-
-- Create an JS file called `index.html`, a `styles.css`, and a `script.js` file, be sure to link them.
-
-- Push up your changes to the remote repository
-
+- You will need to fork and clone this repository.
+- Change into the new directory.
 - Once files are created you will need to run `npm install -g http-server` to install a package called `http-server globally`.
 - Run http-server in the folder.
 - Open your browser to localhost. 
