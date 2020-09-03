@@ -10,6 +10,7 @@
     - [The Set Up](#the-set-up)
     - [The Task](#the-task)
       - [Loops](#loops)
+  - [Submission](#submission)
       
   
 ## JavaScript Loops Lab
@@ -18,19 +19,15 @@
 * JavaScript Fundamentals
 
 ### The Set Up
-- Create a repository and call it  <em>“JS Loops Lab”</em> 
-
-- Initialize the repository
-
-- Clone locally and open repository in Visual Studio Code
-
-- Create an JS file called `main.html`
-
-- Push up your changes to the remote repository
-
+- You will need to fork and clone this repository.
+- Change into the new directory.
+- Create new file called `Prompts.JS`
+- Copy and paste prompts into new file.
+- Make sure to number the prompts you are answering in order to identify what is being answered.
+- Complete the prompts below.
 
 ### The Task
-Below are some prompts you will need to complete. You will also need to number the problems that you answer.
+Below are some prompts you will need to complete.
 
 #### Loops
 **Prompt 1:** Write a `for loop` that counts from 10 to 20, that prints each number to the console.
@@ -47,4 +44,20 @@ Below are some prompts you will need to complete. You will also need to number t
 - If the value of `a` is even, print out "`a` is an even number".
 - If the value of `a` is odd, print out "`a` is an odd number".
 
-**Prompt 7:** Write a for loop that will iterate from 0 to 10. For each iteration of the for loop, it will multiply the number by 9 and log the result
+**Prompt 7:** Write a for loop that will iterate from 0 to 10. For each iteration of the for loop, it will multiply the number by 9 and log the result.
+
+**Prompt 8:** Write a `do...while` loop that increments `i` by 2 as long as `i` is less than 20.
+
+**Prompt 9:** Write a while loop that counts from 5 to 20 and prints each number to the console.
+
+**Prompt 10:** Write a while loop to count from 20 to 0. Log each number to the console.
+
+**Prompt 11:** Write a while loop that uses the `prompt` function that will continue to ask the user for the magic number until they enter the number 8.
+
+**Prompt 12:** Write a `do while` loop that iterates at least once and reiterates until `i` is no longer less than 5.
+
+
+ 
+
+## Submission
+You will need to submit a pull request for submission.

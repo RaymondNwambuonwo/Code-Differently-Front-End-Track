@@ -10,6 +10,7 @@
     - [The Set Up](#the-set-up)
     - [The Task](#the-task)
       - [Object Prompts](#object-prompts)
+  - [Submission](#submission)
 
 ## JavaScript Objects Lab
 
@@ -17,15 +18,14 @@
 * JavaScript Fundamentals
 
 ### The Set Up
-- Create a repository and call it  <em>“JS Objects Lab”</em> 
-
-- Initialize the repository
-
-- Clone locally and open repository in Visual Studio Code
-
-- Create an JS file called `main.js`
-
-- Push up your changes to the remote repository
+- You will need to fork and clone this repository.
+- Change into the new directory.
+- Create new file called `Prompts.JS`
+- Copy and paste prompts into new file.
+- Make sure to number the prompts you are answering in order to identify what is being answered.
+- Complete the prompts below.
+  
+**Make one commit after each prompt you complete.**
 
 ### The Task
 Take the following object:
@@ -43,17 +43,32 @@ const car = {
 
 #### Object Prompts
 
-**Prompt 1:** Write a function to list the properties of the above JavaScript object to the console. 
+**Prompt 1:** Print the object above to the console.
 
-**Prompt 2:** Delete the `gasoline` property from the object. Also print the object before or after deleting the property.
+**Prompt 2:** Write a function that takes an object as an argument and prints it to the console. 
 
-**Prompt 3:** Write a function that returns the object keys as an array.
+**Prompt 3:** Delete the `gasoline` property from the object. Also print the object before or after deleting the property.
 
-**Prompt 4:** Write a function that returns the object's values as an array.
+**Prompt 4:** Write a function that returns the object keys as an array.
 
-**Prompt 5:** Add two more properties to the object `tints: 33%` and `carplay: true`. Print to the console to make sure properties were added.
+**Prompt 5:** Write a function that returns the object's values as an array.
 
-**Prompt 6:** Create another  object called `house` that contains the following:
-* 10 key value pairs
-* 2 boolean values
-* 1 object 
+**Prompt 6:** Add two more properties to the object `tints: 33%` and `carplay: true`. Print to the console to make sure properties were added.
+
+**Prompt 7:** Add a function called `startEngine` when called states "VROOM VROOM" and add a `turnOffEngine` function that when called states "car turned off".
+
+**Prompt 8:** Write a loop that iterates through the above object's properties. **Hint:** You will need to turn the object into an array using 1 of 3 object methods in order to loop through it.  
+
+**Prompt 9:** Create an object choosing one of the following `duck`, `eagle`, or `penguin`. Add an array to the object called `favoriteFood`, listing the 3-5 favorite foods of the bird. Provide the object with 4 key:value pairs, one of which being a boolean value named `canFly`. This object should contain 3 functions named `chirpSound`, `birdDiet`, and `fly`. The `fly` function must contain a conditional based on if the bird you chose can fly or not. If the bird can fly, the function when called will output `I live in the sky`, if not then the function will output `I'd like to stay on the ground`. 
+
+**Prompt 10:** Create another object called `house` that contains the following:
+* A total of 10 key value pairs.
+* 2 of the values should be booleans.
+* Should contain 1 array.
+* Should contain 2 functions.
+* 1 function should contain a conditional.
+* At least 1 of the values should be an object that has 3 key value pairs. 
+
+
+## Submission
+You will need to submit a pull request for submission.
