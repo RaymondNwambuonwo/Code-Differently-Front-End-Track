@@ -55,18 +55,31 @@ const car = {
 
 **Prompt 6:** Add two more properties to the object `tints: 33%` and `carplay: true`. Print to the console to make sure properties were added.
 
-**Prompt 7:** Add a function called `startEngine` when called states "VROOM VROOM" and add a `turnOffEngine` function that when called states "car turned off".
+**Prompt 7:** Add a method called `startEngine` with the following:
+* When method is called, it prints "VROOM VROOM" to the console.
+* Contains a variable `engineOn` with a boolean value set to `true`.
 
-**Prompt 8:** Write a loop that iterates through the above object's properties. **Hint:** You will need to turn the object into an array using 1 of 3 object methods in order to loop through it.  
+**Prompt 8:** Add a method called `turnOffEngine` with the following:
+* When method is called, it prints "car turned off" to the console.
+* Contains a variable `engineOn` with a boolean value set to `false`.
 
-**Prompt 9:** Create an object choosing one of the following `duck`, `eagle`, or `penguin`. Add an array to the object called `favoriteFood`, listing the 3-5 favorite foods of the bird. Provide the object with 4 key:value pairs, one of which being a boolean value named `canFly`. This object should contain 3 functions named `chirpSound`, `birdDiet`, and `fly`. The `fly` function must contain a conditional based on if the bird you chose can fly or not. If the bird can fly, the function when called will output `I live in the sky`, if not then the function will output `I'd like to stay on the ground`. 
+**Prompt 9:** Write a loop that iterates through the above object's properties. **Hint:** You will need to turn the object into an array using 1 of 3 object methods in order to loop through it.  
 
-**Prompt 10:** Create another object called `house` that contains the following:
+**Prompt 10:** Using the directions below, create an object:
+
+ * Choose one of the following: `duck`, `eagle`, or `penguin`. 
+ * Add an array to the object called `favoriteFood`, listing the 3-5 favorite foods of the bird. 
+ * Provide the object with 4 `key:value` pairs, one of which being a boolean value named `canFly`. 
+ * This object should contain 3 methods named `chirpSound`, `birdDiet`, and `fly`. 
+ * The `fly` method must contain a conditional based on if the bird you chose can fly or not. 
+ * If the bird can fly, the method when called will output `I live in the sky`, if not then the method will output `I'd like to stay on the ground`. 
+
+**Prompt 11:** Create another object called `house` that contains the following:
 * A total of 10 key value pairs.
 * 2 of the values should be booleans.
 * Should contain 1 array.
-* Should contain 2 functions.
-* 1 function should contain a conditional.
+* Should contain 3 methods.
+* 1 method should contain a conditional.
 * At least 1 of the values should be an object that has 3 key value pairs. 
 
 

@@ -1,24 +1,24 @@
 ![code differently](https://user-images.githubusercontent.com/54545904/91590200-f82ec600-e928-11ea-9433-eea450388abf.png)
 
-# Javascript AJAX
+# Javascript Fetch
 
 # Table of Content
-- [Javascript AJAX](#javascript-ajax)
+- [Javascript Fetch](#javascript-fetch)
 - [Table of Content](#table-of-content)
-  - [JavaScript AJAX Lab](#javascript-ajax-lab)
+  - [JavaScript Fetch Lab](#javascript-fetch-lab)
     - [Prerequisites](#prerequisites)
     - [About](#about)
     - [The Set Up](#the-set-up)
     - [The Task](#the-task)
   - [Additional Resources](#additional-resources)
 
-## JavaScript AJAX Lab
+## JavaScript Fetch Lab
 
 ### Prerequisites
 * JavaScript Fundamentals
 
 ### About
-Since the start of the program you have learned how to build your own websites, utilizing HTML and CSS. But you have yet to generate content on these sites outside of what you created from scratch. In this lab you will be utilizing AJAX/Fetch to request information from third-party databases or APIs, generating content on your webpage from third party servers. 
+Since the start of the program you have learned how to build your own websites, utilizing HTML and CSS. But you have yet to generate content on these sites outside of what you created from scratch. In this lab you will be utilizing Fetch to request information from third-party databases or APIs, generating content on your webpage from third party servers. 
 
 ### The Set Up
 - You will need to fork and clone this repository.
@@ -28,11 +28,13 @@ Since the start of the program you have learned how to build your own websites, 
 - Open your browser to localhost. 
 
 ### The Task
-You are to make a basic webpage that possesses minimal styling and will generate information from a third party database/API. For this particular lab we will be using the [Pokemon API](https://pokeapi.co/). Your webpage is to generate at least one or more pokemon and some of its characteristics.
+You are to make a basic webpage and will generate information from a third party database/API. Your webpage must include a search and submit form with an ordered/unordered list to show results.
+
+For this particular lab we will be using the [Pokemon API](https://pokeapi.co/). Head over to the link above and browse around to get a feel for interacting with a third-party API site. Also be sure to look over the **DOCS**, docs or documentation is given to provide instructions on how to utilize the site's API.
 
 **Example of using fetch and AJAX**
-```
-const url = "http://pokeapi.salestock.net/api/v2/pokemon/7";
+```js
+const url = "https://pokeapi.co/api/v2/pokemon/";
 
 // fetch takes a url, and an object with a few optional parameters.
 // Ex: {method: 'POST', headers: {'Content-Type': 'application/json'}}
@@ -46,6 +48,8 @@ fetch(url)
     console.log("something went wrong...", err);
   });
   ```
+
+  
 
 ## Additional Resources
 List of free APIs [here](https://github.com/public-apis/public-apis).
