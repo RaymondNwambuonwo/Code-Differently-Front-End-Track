@@ -11,50 +11,57 @@ These drills are to reenforce what you just learned about JavaScript arrays.
 ### The Set-Up
 
 
-- Create a repository and call it  <em>“js-arrays-drill”</em> 
+- Fork and clone this repository locally and in Visual Studio Code
 
-- Initialize the repository
-
-- Clone locally and open repository in Visual Studio Code
-
-- Create an JS file called `main.html`
+- Create an JS file called `main.js`
 
 - Push up your changes to the remote repository
 
 
 
-### The Task
+### The Tasks
 
 1. Read the steps below and code 
 
-    - Create an array named `songs` that contains five different names of songs as strings.
+    - Declare an array named `songs` that contains five different names of songs as strings.
 
-    - Access the first song in the array and print it to the console 
+    - Access the *first* song in the array and print it to the console 
 
-    - Now do the same with the *third* song in the list. 
+    - Now do the same with the *third* song in the array. 
 
-    - Write one line of code that changes the value of the last song in the list to `"Happy"` (overwriting the previous value).
+        > Stage, commit, and push changes. Let Git be on your team.
 
-    - Create a new variable called `jamFour` and set it equal to the fourth song in the list.
+    - Write one line of code that changes the value of the *last* song in the array to `"Happy"` (overwriting the previous value).
 
-    - Add another song to the end of the list.
+    - Create a new variable called `jamFour` and set it equal to the fourth song in the array.
 
-    - Add another song to the *beginning* of the list.
+    - Add another song to the end of the array.
+
+        > Stage, commit, and push changes. Let Git be on your team.
+
+    - Add another song to the *beginning* of the array.
 
     - Print the length of the array to the console 
 
-    - Remove the last song from the end of list, and then print the length of the array to the console one more time.
+    - Remove the last song from the end of array, and then print the length of the array to the console one more time.
+
+        > Stage, commit, and push changes. Let Git be on your team.
 
     - Write a `for loop` to iterate through every song in the array and print each song's value to the console.
 
     - Copying from that loop you just wrote, modify it to print every song's value and every song's index in this format: `3, "Office Theme"` or `0, "Billy Jean"` etc.
 
-    - Create a variable named `lastSong` that will always point to the last element of the `songs` array, no matter how many songs are in the list. 
+    - Declare a variable named `lastSong` that will always point to the last element of the `songs` array, no matter how many 
+    songs are in the array. 
+
+2. Stage, commit, and push changes. Let Git be on your team.
 
 
-2. Declare an array of at least 6 integers. Create a program that will sort the integer array in ascending and descending order.
+3. Declare an array of at least 6 integers. Create a function that will sort the integer array in *ascending* and *descending* order.
 
-3. Create a list of your favorite movies, music, or video games using a multidimensional array. 
+4. Stage, commit, and push changes. Let Git be on your team.
+
+5. Create a list of your favorite movies, music, or video games using a multidimensional array. 
 
     - First decide on the genres Ex: For movies - action, thriller, comedy. Need at least 3 genres.
 
@@ -66,14 +73,14 @@ These drills are to reenforce what you just learned about JavaScript arrays.
 
         - Replace the `first` element of the `second` array with another
 
-        - Using `for` loops, iterate through all arrays and print the elements to the console.
+        - Using `for` loops, iterate through the arrays and print the elements to the console.
 
-
+6. Stage, commit, and push changes. Let Git be on your team.
  
 
 
 
->> Remember to stage, commit, and push your changes often. Let Git be on your team.
+
 
 
 

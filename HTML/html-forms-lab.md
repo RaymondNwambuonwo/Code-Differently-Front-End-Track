@@ -8,7 +8,7 @@
 ### The Set-Up
 
 
-- Fork and clone  this repository locally and in Visual Studio Code
+- Fork and clone this repository locally and in Visual Studio Code
 
 - Create an HTML file called `landing.html`
 
