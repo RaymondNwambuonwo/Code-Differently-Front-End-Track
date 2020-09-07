@@ -12,6 +12,7 @@
       - [Object Literals Prompts](#object-literals-prompts)
       - [Classes Prompts](#classes-prompts)
       - [Getters & Setter Prompts](#getters--setter-prompts)
+  - [Submission](#submission)
 
 ## Object Oriented JavaScript Lab
 
@@ -118,3 +119,6 @@ const whiskers = {
 **Prompt 16:** Add an owner of `phone1` named `John` using bracket notation and print owner to the console.
 
 **Prompt 17:** Add an owner of `phone2` named `Jane` using dot notation and print owner to the console.
+
+## Submission
+You will need to submit a pull request for submission.

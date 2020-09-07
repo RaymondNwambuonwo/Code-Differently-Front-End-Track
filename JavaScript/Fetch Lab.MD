@@ -11,6 +11,7 @@
     - [The Set Up](#the-set-up)
     - [The Task](#the-task)
   - [Additional Resources](#additional-resources)
+  - [Submission](#submission)
 
 ## JavaScript Fetch Lab
 
@@ -53,3 +54,7 @@ fetch(url)
 
 ## Additional Resources
 List of free APIs [here](https://github.com/public-apis/public-apis).
+
+
+## Submission
+You will need to submit a pull request for submission.
