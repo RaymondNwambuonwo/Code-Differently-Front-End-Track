@@ -1,4 +1,4 @@
-# Demo - HTML Tables
+# Demo - HTML Tables Basics
 
 ## Creating A Basic Table
 
@@ -15,4 +15,6 @@
     - No content or should be added inside of the element. The `<td>` element hold the data.
 
 - `<td>` element defines a single table cell and contains data. This element should be nested within a `<tr>` element. 
+
+Now, let's create a <a href="tables-demo.html">table</a>!
 
