@@ -2,7 +2,7 @@
 
 ## HTML Basics Lab
 
-- Using the newly acquired knowledge you will build an *About Me* web page using HTML.
+- Using the newly acquired knowledge you will build an *About Me* web page using HTML of a fictional character you would like to see added to one of your favorite TV shows.
 
 
 ### The Set-Up
@@ -19,25 +19,25 @@
 
 This About webpage will be a single-page website. With the use of relative links, we can navigate to different sections of webpage. 
 
-Your *About Me* web page must include the following:
+Your *About Me* web page must include the following for the fictional character:
 
 1. Navigation bar to navigate to different sections in the web page. 
 
     - Sections needed are:
 
-        - About
+        - Backstory
         - Accomplishments
         - Skills
         - Hobbies/Interest
-        - Contact (Just email address)
+        - Contact (A fictional email address)
 
 2. Stage, commit, and push your changes.
 
-3. An image of you. Must be professional. 
+3. An image of the character. (Remember must be work appropriate) 
 
 4. Stage, commit, and push changes.
 
-5. Banner with your name
+5. Banner with the character's  name
 
 6. Add content to the sections above
 
