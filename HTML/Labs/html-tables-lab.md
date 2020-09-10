@@ -8,64 +8,39 @@
 
 - Fork and clone  this repository locally and in Visual Studio Code
 
-- Create an HTML file called `resume.html`
+- Create an HTML file called `schedule.html`
 
 - Push up your changes to the remote repository
 
 
 ### The Task
 
-#### Part One
+Use the table element to structure  a schedule of your school classes, sports, and Code Differently work schedule.
 
-We will use a table element to structure the layout of the Resume
+1. Establish the global document structure
 
-In the `resume.html` file add a table. Your resume must have the following sections with content:
+2. Stage, commit, and push changes
 
-- Contact information
+3. Title your webpage using a `<h1> .. <h6>` element
 
-    - Email address only
-    - Do not include any social media if it is not professional
+4. Add the `<table>` element
 
-- Small summary 
-    
-    - A sentence that encapsulates you
+5. Stage, commit, and push changes
 
-- Skills
+6. Must use the following elements:
 
-    - Skill acquire outside of school can be added as well
+    - `<tr>`
+    - `<td>`
+    - `<tbody>`
+    - `<thead>`
+    - `<caption>`
 
-- Experience
-
-    - Can be outside of school and work
-    - Include any volunteer work
-    - Participate in any clubs, organizations, or camps
-    - Include summer jobs, whether with a company or working for yourself (ex: cutting grass, washing cars, etc.)
-
-- Education
-
-    - Schools attended including middle school
-
->> Stage, commit, and push changes after creating the table and coding each section. 
-
-#### Part Two
-
-Prepare a presentation about your resume. This presentation will be in two parts. 
-
-- First Part: Using the resume, showcase yourself. When a potential employee is being interview, the interviewer usually asks them to talk about themselves. This is when you would give an overview of who you are and your experience. 
-
-- Second Part: Discuss the code. What was your strategy to build this web page? Did you use any resources? What elements were used?  When interviewing, you may be asked about any projects that you are working on or have completed. Going in depth and talking about the project, tells the interviewer you are very knowledgeable in what you do. 
-
-## Tips
-
-- Use the `col` and `row` attributes to control the number of rows or columns you want to span.
-
-- `<ul>` element can be used to list the items per section
-
-- Look at other resumes for layout inspiration
-
-
->> Remember to stage, commit, and push your changes often. Let Git be on your team.
+7. Stage, commit, and push changes
 
 
 
-Have them build their class schedule incorporating their Code different schedule
+
+
+
+
+
