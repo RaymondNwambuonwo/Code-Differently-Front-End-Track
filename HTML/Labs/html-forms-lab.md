@@ -4,17 +4,10 @@
 ## HTML Forms Lab
 
 
-
 ### The Set-Up
 
 
 - Fork and clone this repository locally and in Visual Studio Code
-
-- Create an HTML file called `landing.html`
-
-- Create an HTML file called `form.html`
-
-- Create an HTML file called `submit.html`
 
 - Push up your changes to the remote repository
 
@@ -29,27 +22,35 @@ This will be a multi-page website and must include pages:
 
 - Registration page 
 
-- Confirmation  page to let the user know their form was submitted successfully.
+- Confirmation page 
 
-<strong>Criteria for the landing page:</strong>
+    - Each page must have a footer
 
-1. Include an image. Must pertain to the business
+        - Footer must contain
 
-2. A button  to the registration form
+            - Company contact info (phone number,address, email, and social media)
+            - Copyright date
+
+**Criteria for the landing page:**
+
+- Include an image. Must pertain to the business
+
+- A button to the registration form
 
     - Criteria for form below
 
-3. Small paragraph about the business
+- Small paragraph about the business
 
-4. A business name ( Be creative! )
+- A business name ( Be creative! )
 
-5. Stage, commit, and push changes
+- Stage, commit, and push changes
 
-<strong>Criteria for the registration form:</strong>
+**Criteria for the registration form:**
 
-1. Inputs for:
+- Inputs for:
 
-    - First name and last name
+    - First name  
+    - Last name
     - Email address
     - Password
     - Confirm password
@@ -59,19 +60,25 @@ This will be a multi-page website and must include pages:
     - State
     - Zip Code
 
-2. Radio Buttons for:
+    > Stage, commit, and push changes.
+
+- Radio Buttons for:
 
     - Language preferred 
 
-3. Checkboxes for:
+    > Stage, commit, and push changes.
+
+- Checkboxes for:
 
     - Selecting the service
 
         - Ex: Lawn Care Services: Grass cutting, planting trees, trimming, mulching, etc.
 
-4. Input for Date of Service requested
+    > Stage, commit, and push changes.
+
+- Input for Date of Service requested
     
-5. Select Menu for:
+- Select Menu for:
 
     - Time of Day for Service (specify the time range for each. Ex: Morning 9:00AM - 11:00AM)
 
@@ -79,12 +86,16 @@ This will be a multi-page website and must include pages:
         - Afternoon
         - Early Evening
 
-6. Submit Button
+    > Stage, commit, and push changes.
 
-    - Add a submit button to link to the `submit.html` page
+- Submit Button
 
-7. Submit web page
+    - Add a submit button to link to the confirmation page
 
-    - In the `submit.html` file, display a message to the user stating the form has been submitted. 
+    > Stage, commit, and push changes.
 
-8. Stage, commit, and push your changes often. Let Git be on your team.
+7. Confirmation web page
+
+    - This page should notify the user that their registration form has been submitted
+
+8. Stage, commit, and push your changes 

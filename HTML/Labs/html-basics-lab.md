@@ -19,6 +19,16 @@
 
 This About webpage will be a single-page website. With the use of relative links, we can navigate to different sections of webpage. 
 
+The global HTML document structure and the following elements are mandatory:
+
+- `<header>`
+- `<footer>`
+- `<section>`
+- `<article>`
+- `<p>`
+- `<h1> ... <h6>`
+
+
 Your *About Me* web page must include the following for the fictional character:
 
 1. Navigation bar to navigate to different sections in the web page. 
@@ -45,12 +55,7 @@ Your *About Me* web page must include the following for the fictional character:
 
 8. Mandatory elements:
 
-- `<header>`
-- `<footer>`
-- `<section>`
-- `<article>`
-- `<p>`
-- `<h1> ... <h6>`
+
 
 9. Must have the global document structure
 
