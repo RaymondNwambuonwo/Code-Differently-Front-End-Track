@@ -16,19 +16,17 @@
 
 - CSS
 
-    - [CSS Basics](CSS/CSS-Basics-Lab.md)
+    - [CSS Labs](CSS/Labs)
   
-    - [CSS Flexbox Layouts](CSS/CSS-Flexbox-Layouts-Lab.md)
+    - [CSS Demos](CSS/Demos)
     
-    - [CSS Grid Layouts](CSS/CSS-Grid-Layouts-Lab.md)
+    - [CSS Turn & Talks](CSS/Turn & Talks)
     
-    - [CSS Responsive](CSS/CSS-Responsive-Layouts-Lab.md)
-    
-    - [CSS Capstone](CSS/CSS-Capstone.md)
-
-
+  
 - JavaScript
 
-    - Lab One
+    - [JavaScript Labs](JavaScript/Labs)
 
-    - Lab Two
+    - [JavaScript Demos] (JavaScript/Demos)
+    
+    - [JavaScript Turn & Talks](JavaScript/Turn & Talks)
