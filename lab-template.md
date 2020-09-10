@@ -1,5 +1,4 @@
-
-<img  src="../code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px; text-align:center;">
+<img  src="../../assets/code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px;">
 
 
 
@@ -12,13 +11,9 @@
 ### The Set-Up
 
 
-- Create a repository and call it  <em>“”</em> 
+- Fork and clone locally and open repository in Visual Studio Code
 
-- Initialize the repository
-
-- Clone locally and open repository in Visual Studio Code
-
-- Create an HTML file called `index.html`
+- Create 
 
 - Push up your changes to the remote repository
 

@@ -1,3 +1,5 @@
+<img  src="../../assets/code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px;">
+
 # Demo - HTML Tables Basics
 
 ## Creating A Basic Table

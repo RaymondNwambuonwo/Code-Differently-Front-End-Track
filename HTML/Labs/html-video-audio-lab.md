@@ -1,4 +1,4 @@
-<img  src="../code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px; text-align:center;">
+<img  src="../../assets/code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px;">
 
 
 ## HTML Video & Audio Lab
