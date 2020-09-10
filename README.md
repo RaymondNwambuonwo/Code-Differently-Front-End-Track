@@ -8,15 +8,11 @@
 
 - HTML
 
-    - [HTML Basics](HTML/html-basics-lab.md)
-
-    - [HTML Tables](HTML/html-tables-lab.md)
-
-    - [HTML Forms](HTML/html-forms-lab.md)
-
-    - [HTML Video & Audio](HTML/html-video-audio-lab.md)
-
-    - [HTML Capstone](HTML/html-capstone.md)
+    - [HTML Labs](HTML/Labs)
+    
+    - [HTML Demos](HTML/Demos)
+    
+    - [HTML Turn & Talks](HTML/Turn&Talks)
 
 - CSS
 
