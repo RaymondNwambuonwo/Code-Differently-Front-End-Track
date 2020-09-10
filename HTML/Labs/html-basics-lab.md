@@ -49,8 +49,11 @@ Your *About Me* web page must include the following for the fictional character:
 - `<footer>`
 - `<section>`
 - `<article>`
+- `<p>`
+- `<h1> ... <h6>`
 
 9. Must have the global document structure
 
 10. Stage, commit, and push your changes. 
+
 

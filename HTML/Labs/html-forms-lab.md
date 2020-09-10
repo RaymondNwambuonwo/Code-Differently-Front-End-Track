@@ -21,7 +21,7 @@
 
 ### The Task
 
-Create a business page for a business of your choosing. The business page could be for a lawn care service, nails/hair, cleaning, etc.
+Create a business page for a business of your choosing. The business page could be for a lawn care service, nails/hair, cleaning, web agency, bank, etc.
 
 This will be a multi-page website and must include pages:
 
@@ -36,6 +36,8 @@ This will be a multi-page website and must include pages:
 1. Include an image. Must pertain to the business
 
 2. A button  to the registration form
+
+    - Criteria for form below
 
 3. Small paragraph about the business
 
@@ -59,7 +61,7 @@ This will be a multi-page website and must include pages:
 
 2. Radio Buttons for:
 
-    - Language preferred and/or gender 
+    - Language preferred 
 
 3. Checkboxes for:
 

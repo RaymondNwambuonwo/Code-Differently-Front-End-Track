@@ -66,3 +66,6 @@ Prepare a presentation about your resume. This presentation will be in two parts
 
 >> Remember to stage, commit, and push your changes often. Let Git be on your team.
 
+
+
+Have them build their class schedule incorporating their Code different schedule
