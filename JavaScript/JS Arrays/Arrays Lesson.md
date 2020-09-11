@@ -6,6 +6,7 @@
 
 - [Javascript Arrays](#javascript-arrays)
 - [Table of Content](#table-of-content)
+  - [Objectives](#objectives)
   - [About](#about)
     - [Arrays](#arrays)
       - [Accessing Arrays](#accessing-arrays)
@@ -18,6 +19,16 @@
       - [Removing Elements From An Array](#removing-elements-from-an-array)
     - [Spread Operator](#spread-operator)
   - [Next Steps](#next-steps)
+
+## Objectives
+
+- Define a JavaScript array.
+- Understand writing an array.
+- Know how to access an array.
+- Understand how to add and remove elements from array.
+- Array Methods.
+- Nesting Arrays.
+- Spread operator use.
 
 ## About
 

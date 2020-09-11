@@ -6,10 +6,16 @@
 
 - [Javascript Numbers](#javascript-numbers)
 - [Table of Content](#table-of-content)
+  - [Objectives](#objectives)
   - [About](#about)
     - [Numbers](#numbers)
       - [Number Methods](#number-methods)
   - [Next Steps](#next-steps)
+
+## Objectives
+
+- Define JavaScript numbers.
+- Understand number methods.
 
 ## About
 

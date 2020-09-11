@@ -6,6 +6,7 @@
 
 - [Javascript Basics](#javascript-basics)
 - [Table of Content](#table-of-content)
+  - [Objectives](#objectives)
   - [About](#about)
     - [Variables](#variables)
     - [Strings](#strings)
@@ -13,6 +14,13 @@
     - [Comparison and Logical Operators](#comparison-and-logical-operators)
     - [Conditional Statements](#conditional-statements)
   - [Next Steps](#next-steps)
+
+## Objectives
+
+- Declare a JavaScript variable.
+- Understand strings and string methods in JavaScript.
+- Understand comparison and logical operators.
+- Understanding the use of conditional statements.
 
 ## About
 

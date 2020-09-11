@@ -6,6 +6,7 @@
 
 - [Javascript Functions](#javascript-functions)
 - [Table of Content](#table-of-content)
+  - [Objectives](#objectives)
   - [About](#about)
     - [Functions](#functions)
       - [Function Declaration](#function-declaration)
@@ -16,6 +17,15 @@
         - [Global Scope](#global-scope)
       - [Arrow Functions](#arrow-functions)
   - [Next Steps](#next-steps)
+
+## Objectives
+
+- Define a JavaScript function.
+- Understand function syntax.
+- Write traditional and arrow functions.
+- Know difference between a declaration and an expression.
+- Understand the variable scope.
+- How to invoke a function.
 
 ## About
 
