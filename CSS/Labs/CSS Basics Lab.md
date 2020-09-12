@@ -38,6 +38,7 @@ Your web page must include the following:
 * Must use the box model
 * Use Border properties 
 
+
 ## Resources:
 * https://www.awwwards.com/
 * https://html5up.net/
@@ -45,6 +46,12 @@ Your web page must include the following:
 * https://www.wix.com/website/templates
 * https://www.webdesign-inspiration.com/web-designs/type/portfolio
 
+
+<!-- 
+* Hold off on lining up images, going to use 
+* reiterate the use of classes and ids in the labs and turn and talks
+* Give examples of completed artist pages
+ -->
 
 
 

@@ -28,3 +28,9 @@ Your web page must include the following:
 * Media Queries
 * Breakpoints
 * Flexbox or Grid 
+
+<!-- Possibly incorporate flex into the landing page -->
+
+<!-- DEMO: CSS diner -->
+
+<!-- CSS Flex frogger and Grid garden for turn and talks -->

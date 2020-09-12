@@ -43,3 +43,6 @@ In order to complete the submission of this assignment, you must submit a screen
 Once you are in your account, click the frog icon and screenshot as shown below:
 <img width="1075" alt="Screen Shot 2020-08-31 at 9 06 27 AM" src="https://user-images.githubusercontent.com/54545904/91723370-a628b300-eb69-11ea-9c3d-23d14e5aa1c3.png">
 You will submit the screenshot along with your repo as an issue.
+
+
+<!-- Separate markdown KEEP THIS Add a certain number of pics on the media page and use flexbox to line up and use grid for the videos -->

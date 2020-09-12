@@ -65,6 +65,8 @@ Your artist fan webpage will need to include the following criteria:
 
     - Image of artist
 
+    > All media must be work appropriate. Ensure all media does not include any content that is explicit or offensive.
+
     - Button linked to the About page
 
 
@@ -76,15 +78,17 @@ Your artist fan webpage will need to include the following criteria:
     - works/accomplishments
     - why you admire the artist
 
+    > All media must be work appropriate. Ensure all media does not include any content that is explicit or offensive.
+
 5. Stage, commit, and push up changes.
 
-6. Add a Media page containing following sections:
+6. Add a Media page containing the following sections:
 
     - videos 
     - images
     - audio 
 
-    > All media must be work appropriate. Ensure all media does not include any content that is explicit or offensive. This will not be tolerated.
+    > All media must be work appropriate. Ensure all media does not include any content that is explicit or offensive. 
   
 7. Stage, commit, and push up changes.
  

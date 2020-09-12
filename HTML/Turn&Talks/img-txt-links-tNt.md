@@ -21,24 +21,34 @@ Using the appropriate elements, add images, text, and links to an HTML document.
 
 4. Add a caption to the image
 
-5. Stage, commit, and push changes
+5. Using the `<p>` element, add a sentence or 2 conveying your feelings about HTML.
 
-6. Using Git Bash, create a folder can name it "assets"
+6. Stage, commit, and push changes
 
-7. Find the CSS icon and save it to the assets folder
+7. Using Git Bash, create a folder can name it "assets"
 
-8. Add the image to the HTML document with the correct file path
+8. Find the CSS icon and save it to the assets folder
 
-9. Stage, commit, and push changes
+9. Add the image to the HTML document with the correct file path
 
-10. Nest both images inside of their own `<div>`
+10. Add a caption to the image
 
-11. Add a captions to both images
+10. Using the `<p>` element, add a sentence or two conveying your feelings about CSS.
 
-8
+11. Stage, commit, and push changes
 
-8. Add a small paragraph. 
+12. Find the JavaScript icon and save it to the assets folder
 
-9. Add a single line quote
+13. Add a caption to the image and a one or two sentences conveying your feelings about JS.
 
-10. Add a link that will open in a new tab to another website
+14. Stage, commit, and push changes
+
+15. Wrap all images and their relating paragraph elements inside their own `<div>` element
+
+16. Stage, commit, and push changes
+
+17. Add a link for each programming language to their own Mozilla Developer Network document within their `<div>` element
+
+    - Google "html mdn"
+
+18. Stage, commit, and push changes

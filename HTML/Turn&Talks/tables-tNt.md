@@ -11,7 +11,7 @@
 
 ## Tasks
 
-Using the Table Basics demo and the videos as a guide, create a table that displays your chore and hobbies schedule. Your code must include the following elements:
+Using the Table Basics demo and the videos as a guide, create a table that displays your chores and hobbies schedule. Your code must include the following elements:
 
 - `<table>`
 - `<tr>`
